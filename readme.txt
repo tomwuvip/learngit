@@ -1,8 +1,3 @@
-啊啊啊啊啊
-aaa1232
-
-distrubute 123
-
-888888
+哈哈，我会用git了
 Git has a mutable index called stage.
 Git tracks changes.
