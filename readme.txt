@@ -5,3 +5,4 @@ distrubute 123
 
 888888
 Git has a mutable index called stage.
+Git tracks changes.
